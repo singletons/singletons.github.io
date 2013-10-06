@@ -1,0 +1,2 @@
+singletons.github.io
+====================
